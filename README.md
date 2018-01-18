@@ -67,3 +67,9 @@ Solutions for Nowcoder tests
 7. 寻找错误结点
 8. 树上最远距离
 9. 最大二叉搜索子树
+
+### bitwise operations
+1. 交换
+2. 比较
+3. 寻找一个数奇数出现
+4. 寻找两个数奇数出现
