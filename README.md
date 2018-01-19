@@ -73,3 +73,14 @@ Solutions for Nowcoder tests
 2. 比较
 3. 寻找一个数奇数出现
 4. 寻找两个数奇数出现
+
+
+### permutation and combination
+1. 方格移动
+2. 站队问题
+3. 孤傲的a
+4. 分糖果
+5. 括号序列
+6. 进出栈
+7. 排队买票
+8. 二叉树统计
