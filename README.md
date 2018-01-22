@@ -84,3 +84,11 @@ Solutions for Nowcoder tests
 6. 进出栈
 7. 排队买票
 8. 二叉树统计
+
+### probability
+1. 足球比赛
+3. 随机函数
+4. 随机01
+5. 随机区间
+6. 随机数组
+7. 机器吐球
