@@ -92,3 +92,10 @@ Solutions for Nowcoder tests
 5. 随机区间
 6. 随机数组
 7. 机器吐球
+
+### dynamic programming
+1. 找零钱
+2. 台阶问题
+3. 矩阵最小路径和
+4. LIS
+5. LCS
