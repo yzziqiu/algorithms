@@ -99,3 +99,11 @@ Solutions for Nowcoder tests
 3. 矩阵最小路径和
 4. LIS
 5. LCS
+6. 01背包问题
+7. 最优编辑
+
+### others
+1. 涂色问题
+2. 赛马
+3. 游戏
+4. 数组清空
